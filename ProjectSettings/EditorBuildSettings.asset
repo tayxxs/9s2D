@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/sence/Dues/Scene00.unity
+    guid: 057ffa057b9354e70a6f45059c5daeaa
+  - enabled: 1
+    path: Assets/sence/Dues/Scene01.unity
+    guid: 4762d31acb9b64d24aa7436249a74d98
+  - enabled: 1
+    path: Assets/sence/Dues/Scene02.unity
+    guid: 296923e6848e0415fa118819d18797a9
+  - enabled: 1
+    path: Assets/sence/Dues/Scene03.unity
+    guid: 78b4ea9c45eed4b09954bc3b6049a794
+  - enabled: 1
+    path: Assets/sence/Dues/Scene04.unity
+    guid: e7b815a180b1f4fc0a8c64441886e277
+  - enabled: 1
+    path: Assets/sence/Dues/Scene04(2).unity
+    guid: dd33820ff0c164553aefd8920ff2170e
+  - enabled: 1
+    path: Assets/sence/Dues/Scene05.unity
+    guid: 7986b87e340c343dfaefd76b34450687
+  - enabled: 1
+    path: Assets/sence/Dues/Scene06.unity
+    guid: 8092a587126ef4919930b343436b6faa
+  - enabled: 1
+    path: Assets/sence/Dues/Scene07.unity
+    guid: 673af5bb742334e54a40b08c9185370e
+  - enabled: 1
+    path: Assets/sence/Dues/Scene08.unity
+    guid: d9ce47327426f44feafeb14396497241
+  - enabled: 1
+    path: Assets/sence/Dues/Scene09.unity
+    guid: 3df192c21f0bc43ec8d326e559cca501
+  - enabled: 1
+    path: Assets/sence/Dues/Scene10.unity
+    guid: aaf92951bc9ac4240baedc7f4d521104
+  - enabled: 1
+    path: Assets/sence/Dues/Scene11.unity
+    guid: e5b4e292ffaf24495a53a24681f6da84
+  - enabled: 1
+    path: Assets/sence/Dues/Scene12.unity
+    guid: 82b4aca43cbcb4824aaa2ecd9483da4b
+  - enabled: 1
+    path: Assets/sence/Dues/Scene13.unity
+    guid: 1061a2d4d907c49ecbd369ee42dead16
+  - enabled: 1
+    path: Assets/sence/Dues/Scene13(2).unity
+    guid: 4edb34045a42f40cd8b8520c652451a7
+  - enabled: 1
+    path: Assets/sence/Dues/Scene14.unity
+    guid: 4c7f5be8de8fb4eee8390393d93f6252
+  - enabled: 1
+    path: Assets/sence/Dues/Scene15.unity
+    guid: 54a3cc4701a684c228d33e04c3539cab
+  - enabled: 1
+    path: Assets/sence/Dues/Scene16.unity
+    guid: 0f04cdbff0d0543c58f4936985d6be51
+  - enabled: 1
+    path: Assets/sence/Dues/Scene16(2).unity
+    guid: 5a7e210fe5c354e62889a17765c7f858
+  - enabled: 1
+    path: Assets/sence/Dues/Scene17.unity
+    guid: 5d2ca6fa93a8f421bafa8a7e7d1182cb
+  - enabled: 1
+    path: Assets/sence/Dues/Scene18.unity
+    guid: 2b89c00446b5f4159b42e164f03bb1e9
+  - enabled: 1
+    path: Assets/sence/Dues/Scene19.unity
+    guid: 73273bb5cf2a840c9a6263563f7364fd
+  - enabled: 1
+    path: Assets/sence/Dues/Scene20.unity
+    guid: 44dfb5a62c3f3438397a9abbfa58bdeb
+  - enabled: 1
+    path: Assets/sence/Dues/Scene21.unity
+    guid: 4ae5d10b7ada54dbb9726e8c696dc123
+  - enabled: 1
+    path: Assets/sence/Dues/Scene22.unity
+    guid: 7b48258bd42b84a398743cf1b7fe332f
+  - enabled: 1
+    path: Assets/sence/Dues/Scene25.unity
+    guid: 47519599b6d024c0aade9b6ee130baa6
+  - enabled: 1
+    path: Assets/sence/Dues/Scene26.unity
+    guid: b1f6df7fbcb1e47cfbb2a1be5c1f42de
+  - enabled: 1
+    path: Assets/sence/Dues/Scene27.unity
+    guid: 7871ddf3be62047d0918009b0d66cefe
+  - enabled: 1
+    path: Assets/sence/Dues/Scene28.unity
+    guid: fbb17ececf0b144fe99afbc089d3157e
+  - enabled: 1
+    path: Assets/sence/Dues/Scene29.unity
+    guid: 741ac68a7295b40b8a63a12e8966e4f1
+  - enabled: 1
+    path: Assets/sence/Dues/Scene30.unity
+    guid: 155f1e48d37744847abfebc498eeeb00
+  - enabled: 1
+    path: Assets/sence/Dues/Scene31.unity
+    guid: 66877d3d113c84534bb938d5c9ce6703
+  - enabled: 1
+    path: Assets/sence/Dues/SceneEnd.unity
+    guid: 568188297e1c14561b4c0c33f4ec6ee3

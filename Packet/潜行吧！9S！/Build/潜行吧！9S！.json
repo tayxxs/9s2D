@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "nier 9s",
+"dataUrl": "潜行吧！9S！.data.unityweb",
+"asmCodeUrl": "潜行吧！9S！.asm.code.unityweb",
+"asmMemoryUrl": "潜行吧！9S！.asm.memory.unityweb",
+"asmFrameworkUrl": "潜行吧！9S！.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
