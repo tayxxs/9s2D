@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{DB5703EF-1183-1DBA-5356-6E18354A28C1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/BulletScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/PlayerControl.cs">
     <Files>
       <File FileName="Assets/script/LoadSence.cs" Line="18" Column="67" />
       <File FileName="Assets/script/BlackCore.cs" Line="56" Column="43" />

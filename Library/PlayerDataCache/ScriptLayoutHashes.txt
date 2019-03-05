@@ -1,4 +1,4 @@
-WebGL
+OSXStandalone
 SceneListBegin?
 Assets/sence/Dues/Scene00.unity
 Assets/sence/Dues/Scene01.unity

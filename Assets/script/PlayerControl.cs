@@ -11,6 +11,8 @@ public class PlayerControl : MonoBehaviour {
     public float shoottime;
     public bool canFire;
     public bool EndMode;
+    public bool Isthis=false;
+    public string Id;
     bool EndModeUp;
     float lastTime;
     float curTime;
@@ -24,7 +26,7 @@ public class PlayerControl : MonoBehaviour {
 	void Start () {
         Input.multiTouchEnabled = true;
         lastTime = Time.time;
-        canFire = false;
+        //canFire = false;
         bullet = bullet1;
         
 	}
@@ -36,8 +38,14 @@ public class PlayerControl : MonoBehaviour {
         {
             Instantiate(BlackCore, this.transform.position + transform.forward, this.transform.rotation);
             Destroy(this.gameObject);
-
         }
+        if (Input.GetKeyDown(Id))
+        {
+            Isthis = !Isthis;
+            Debug.Log(Isthis);
+        }
+            
+
     }
 
     void FixedUpdate ()
@@ -72,7 +80,9 @@ public class PlayerControl : MonoBehaviour {
             }
 
         }
-        PlayerCtrl(ref move, ref shoot);
+
+        if(Isthis)
+            PlayerCtrl(ref move, ref shoot);
     }
 
     private static Vector3 PCShootInput()
