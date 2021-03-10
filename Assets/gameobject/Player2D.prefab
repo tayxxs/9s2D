@@ -156,12 +156,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Hp: 1
   speed: 3
+  shoottime: 0.3
+  JuLi: 0
   bullet1: {fileID: 1847331349650766, guid: f53cb49ab75af42de851111cfdbcf635, type: 2}
   bullet2: {fileID: 1847331349650766, guid: a34d56f8f93be418f96d7e2297c5eb46, type: 2}
   BlackCore: {fileID: 1501135559508884, guid: 83e07b71abefa41de878940f2879a373, type: 2}
-  shoottime: 0.3
+  Master: {fileID: 0}
   canFire: 0
   EndMode: 0
+  Isthis: 1
+  Id: 1
 --- !u!212 &212490098990604836
 SpriteRenderer:
   m_ObjectHideFlags: 1

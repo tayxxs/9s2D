@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour {
     public GameObject Player1;
-
-   
+    public GameObject Player2;
     public float speed;
     public float speedq;
     public Vector3 campos;
     public Vector3 rote;
-    GameObject Player2;
     Vector3 move;
     float movex, movez;
 	// Use this for initialization
@@ -30,13 +28,14 @@ public class CameraControl : MonoBehaviour {
         }
         else
         {
-            float r = Input.GetAxis("CamCtrl");
-            float y = Camera.main.transform.rotation.eulerAngles.y;
-            Vector3 camerapos = Quaternion.Euler(0, y, 0) * campos;
-            Vector3 cameraPosition = new Vector3(Player1.transform.position.x, 0, -10);
+            //float r = Input.GetAxis("CamCtrl");
+            //float y = Camera.main.transform.rotation.eulerAngles.y;
+            //Vector3 camerapos = Quaternion.Euler(0, y, 0) * campos;
+
+            Vector3 cameraPosition = new Vector3(Player1.transform.position.x, Player1.transform.position.y, -10);
             transform.position = cameraPosition;
 
-            transform.RotateAround(Player1.transform.position, Vector3.up, speedq * Time.deltaTime * r);
+            //transform.RotateAround(Player1.transform.position, Vector3.up, speedq * Time.deltaTime * r);
         }
 
     }

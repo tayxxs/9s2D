@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9s2D", "9s2D.csproj", "{DB5703EF-1183-1DBA-5356-6E18354A28C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9s2D.Editor", "9s2D.Editor.csproj", "{49C1BAF2-DF99-7E15-6750-6E41D69D8D7E}"
