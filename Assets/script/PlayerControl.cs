@@ -24,9 +24,11 @@ public class PlayerControl : MonoBehaviour {
     Vector2 centerR = Vector2.zero;
     Vector3 up=Vector3.up;
     GameObject bullet;
+    GameObject skill;
 
-	// Use this for initialization
-	void Start () {
+
+    // Use this for initialization
+    void Start () {
         Input.multiTouchEnabled = true;
         lastTime = Time.time;
         //canFire = false;
@@ -173,6 +175,10 @@ public class PlayerControl : MonoBehaviour {
         if (other.gameObject.layer == LayerMask.NameToLayer("RedBoom"))
         {
             Hp = 0;
+        }
+        if (other.gameObject.layer == LayerMask.NameToLayer("SkillBox"))
+        {
+            skill = other.
         }
 
     }

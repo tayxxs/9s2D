@@ -267,6 +267,8 @@
     <Compile Include="Assets\script\RaycastController.cs" />
     <Compile Include="Assets\script\RedBoom.cs" />
     <Compile Include="Assets\script\RotatePlank.cs" />
+    <Compile Include="Assets\script\Skill.cs" />
+    <Compile Include="Assets\script\SkillBox.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />

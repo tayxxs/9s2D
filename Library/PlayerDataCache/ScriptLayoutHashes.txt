@@ -1,40 +1,4 @@
-OSXStandalone
-SceneListBegin?
-Assets/sence/Dues/Scene00.unity
-Assets/sence/Dues/Scene01.unity
-Assets/sence/Dues/Scene02.unity
-Assets/sence/Dues/Scene03.unity
-Assets/sence/Dues/Scene04.unity
-Assets/sence/Dues/Scene04(2).unity
-Assets/sence/Dues/Scene05.unity
-Assets/sence/Dues/Scene06.unity
-Assets/sence/Dues/Scene07.unity
-Assets/sence/Dues/Scene08.unity
-Assets/sence/Dues/Scene09.unity
-Assets/sence/Dues/Scene10.unity
-Assets/sence/Dues/Scene11.unity
-Assets/sence/Dues/Scene12.unity
-Assets/sence/Dues/Scene13.unity
-Assets/sence/Dues/Scene13(2).unity
-Assets/sence/Dues/Scene14.unity
-Assets/sence/Dues/Scene15.unity
-Assets/sence/Dues/Scene16.unity
-Assets/sence/Dues/Scene16(2).unity
-Assets/sence/Dues/Scene17.unity
-Assets/sence/Dues/Scene18.unity
-Assets/sence/Dues/Scene19.unity
-Assets/sence/Dues/Scene20.unity
-Assets/sence/Dues/Scene21.unity
-Assets/sence/Dues/Scene22.unity
-Assets/sence/Dues/Scene25.unity
-Assets/sence/Dues/Scene26.unity
-Assets/sence/Dues/Scene27.unity
-Assets/sence/Dues/Scene28.unity
-Assets/sence/Dues/Scene29.unity
-Assets/sence/Dues/Scene30.unity
-Assets/sence/Dues/Scene31.unity
-Assets/sence/Dues/SceneEnd.unity
-SceneListEnd?
+WindowsStandalone
 13440a6cfbdcc075c12be0360ccf66a3 Assembly-CSharp.dll:.RotatePlank
 ec11db7e08436d0a6dd5a68872e56578 Assembly-CSharp.dll:.BrithPoint
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -48,9 +12,8 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.ControlTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
-9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 38a76b23fc230b50843f6d0e7d395e2b Assembly-CSharp.dll:.ModeSwitch
-a0a7bce1b014c20cf257e53d0f531225 Assembly-CSharp.dll:.CameraControl
 25a8032d233df72c368030798802d97d Assembly-CSharp.dll:.ExtrudeRandomEdges
 50a2896efb9549368a486a6b6fc024bc Assembly-CSharp.dll:.MonsterScript
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
@@ -130,7 +93,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.ControlTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
-9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Alarm
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -147,7 +110,6 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
@@ -160,24 +122,11 @@ add8e36ae10d7cc9b81842e7ea24c6ab Assembly-CSharp.dll:.PaoTai
 4906fece8b6c6d16a0dd564e582d3297 Assembly-CSharp.dll:.MonsterNest
 38f0866315d9c6b2d038fd11f99e7337 Assembly-CSharp.dll:.Point
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:ProBuilder2.Examples.HueCube
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
-05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 2efed6bb89e8f23ba710fd72e82e0d6d Assembly-CSharp.dll:.BlackCore
 7224996cb86979a41fac2be9d2d9fc59 Assembly-CSharp.dll:.CameraTransform
 c4ebf3a5363f47ee2f61f5be76208e1e Assembly-CSharp.dll:.LoadSence
 310216d4b5a87b235a7acae353197cb7 Assembly-CSharp.dll:.XLine
-f49e1e8b07d3b74f1e4ae054b8c84248 Assembly-CSharp.dll:.PlayerControl
-a13e348db57cdb225ef648cd7f959981 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_BezierShape
-d65f8e166eb4df1e46eb9eaa8ee261c1 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_ColorPalette
-05524b8f659e7bfe5756d1335fec24ba ProBuilderCore-Unity5.dll:.pb_DummyScript
-de97379821afa9e2d0bd6e6ccee7b4a7 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_ElementGraphics
-d05d1726290c11f0086c3ed9a61ae76d ProBuilderCore-Unity5.dll:.pb_Entity
-08d320ebcef1851d2d5edc2e728a92ee ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_LineRenderer
-05524b8f659e7bfe5756d1335fec24ba ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_MeshRenderer
-2bc8bffa442d471f63726d9d95ec3942 ProBuilderCore-Unity5.dll:.pb_Object
-be298e9989a57b3144bbdecf37b84436 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_PolyShape
-8965b639c314e17576abd37f3ff28cd2 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_PreferenceDictionary
-b6994eef3ccb7ef36dbcb0ded4de4503 ProBuilderCore-Unity5.dll:ProBuilder2.Common.pb_Renderable
+f3381689e3946015a7d601d1d1acbb5b Assembly-CSharp.dll:.PlayerControl
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BGM
 93ddb8ea6b368f50f14a88cf5a18eeb4 Assembly-CSharp.dll:.LuXian
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -195,11 +144,12 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
-96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
+2a56361227def9f56c2cf57a88b32f4d UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 82c6192ece8decc1abce9eae5bc44e95 Assembly-CSharp.dll:.HighlightNearestFace
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.PerformanceTesting.dll:UnityEngine.PerformanceTesting.TimeMeasurementScript
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -213,3 +163,4 @@ c092d98843a8eef64d0744291cf552b7 Assembly-CSharp.dll:.BulletScript
 fe208a1d77e5eb0393e0c348d6ece269 Assembly-CSharp.dll:.RaycastController
 2abc1cc9eedc2c36c50bb7dcc40f8981 Assembly-CSharp.dll:.LoadSenceTwo
 32dcc1dca94294515dfea07e896e1a84 Assembly-CSharp.dll:ProBuilder2.Examples.RuntimeEdit
+a0a7bce1b014c20cf257e53d0f531225 Assembly-CSharp.dll:.CameraControl
