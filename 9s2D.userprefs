@@ -1,27 +1,26 @@
-﻿<Properties StartupConfiguration="{DB5703EF-1183-1DBA-5356-6E18354A28C1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/PlayerControl.cs">
+﻿<Properties StartupConfiguration="{DB5703EF-1183-1DBA-5356-6E18354A28C1}|" StartupItem="9s2D.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\PlayerControl.cs">
     <Files>
-      <File FileName="Assets/script/LoadSence.cs" Line="18" Column="67" />
-      <File FileName="Assets/script/BlackCore.cs" Line="56" Column="43" />
-      <File FileName="Assets/script/PlayerControl.cs" Line="101" Column="32" />
-      <File FileName="Assets/script/BlackBox.cs" Line="8" Column="28" />
-      <File FileName="Assets/script/LuXian.cs" Line="28" Column="12" />
-      <File FileName="Assets/script/RotatePlank.cs" Line="6" Column="30" />
-      <File FileName="../../unity/sky2D/Assets/script/DiLei.cs" Line="42" Column="13" />
-      <File FileName="Assets/script/ModeSwitch.cs" Line="81" Column="43" />
-      <File FileName="Assets/script/Plank.cs" Line="39" Column="62" />
-      <File FileName="Assets/script/CameraTransform.cs" Line="23" Column="73" />
-      <File FileName="Assets/script/RedBoom.cs" Line="38" Column="18" />
-      <File FileName="Assets/script/MonsterNest.cs" Line="42" Column="21" />
-      <File FileName="Assets/script/BrithPoint.cs" Line="19" Column="45" />
-      <File FileName="Assets/script/PaoTai.cs" Line="170" Column="23" />
-      <File FileName="Assets/script/BGM.cs" Line="36" Column="31" />
-      <File FileName="Assets/script/BulletScript.cs" Line="23" Column="52" />
-      <File FileName="Assets/script/MonsterScript.cs" Line="256" Column="24" />
-      <File FileName="Assets/script/CameraControl.cs" Line="39" Column="105" />
-      <File FileName="Assets/script/MonsterControl.cs" Line="115" Column="10" />
-      <File FileName="Assets/script/Alarm.cs" Line="14" Column="3" />
-      <File FileName="Assets/script/LoadSenceTwo.cs" Line="31" Column="74" />
+      <File FileName="Assets\script\LoadSence.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BlackCore.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PlayerControl.cs" Line="101" Column="6" />
+      <File FileName="Assets\script\BlackBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\LuXian.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\RotatePlank.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ModeSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Plank.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CameraTransform.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\RedBoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MonsterNest.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BrithPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PaoTai.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MonsterScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MonsterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Alarm.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\LoadSenceTwo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -29,6 +28,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.9s2D PreferredExecutionTarget="Unity.Editor" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.9s2D PreferredExecutionTarget="Unity.Editor" />
 </Properties>

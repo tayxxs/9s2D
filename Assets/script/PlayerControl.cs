@@ -5,10 +5,13 @@ using UnityEngine;
 public class PlayerControl : MonoBehaviour {
     public float Hp; 
     public float speed;
+    public float shoottime;
+    public float JuLi;
     public GameObject bullet1;
     public GameObject bullet2;
     public GameObject BlackCore;
-    public float shoottime;
+    public GameObject Master;
+
     public bool canFire;
     public bool EndMode;
     public bool Isthis=false;
@@ -21,9 +24,11 @@ public class PlayerControl : MonoBehaviour {
     Vector2 centerR = Vector2.zero;
     Vector3 up=Vector3.up;
     GameObject bullet;
+    GameObject skill;
 
-	// Use this for initialization
-	void Start () {
+
+    // Use this for initialization
+    void Start () {
         Input.multiTouchEnabled = true;
         lastTime = Time.time;
         //canFire = false;
@@ -34,15 +39,19 @@ public class PlayerControl : MonoBehaviour {
 	// Update is called once per frame
     void Update()
     {
-        if (Hp <= 0)
+        if (Hp <= 0/*|| Vector3.Distance(transform.position,Master.transform.position)>JuLi*/)
         {
             Instantiate(BlackCore, this.transform.position + transform.forward, this.transform.rotation);
             Destroy(this.gameObject);
+            Debug.Log(JuLi);
         }
         if (Input.GetKeyDown(Id))
         {
             Isthis = !Isthis;
-            Debug.Log(Isthis);
+
+          //  Ray2D ray;
+          //  ray = new Ray2D(transform.position, (Master.transform.position - transform.position).normalized);
+
         }
             
 
@@ -166,6 +175,10 @@ public class PlayerControl : MonoBehaviour {
         if (other.gameObject.layer == LayerMask.NameToLayer("RedBoom"))
         {
             Hp = 0;
+        }
+        if (other.gameObject.layer == LayerMask.NameToLayer("SkillBox"))
+        {
+            skill = other.
         }
 
     }
